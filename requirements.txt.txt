@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+pandas  # Add other dependencies your app uses
+numpy   # (if applicable)
+seaborn
+scikit-learn
+time
+warnings
